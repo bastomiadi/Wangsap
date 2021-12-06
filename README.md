@@ -21,5 +21,9 @@ For Android User Run With Railway:
 *if u run in Railway*
 *Don't forge to up u session!*
 
+**if u don't know how to up session in github**
+**Just Go To YouTube Tutorial So Many Tutorial there!**
+
+
 
 
