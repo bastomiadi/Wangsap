@@ -15,3 +15,11 @@ Tinggal Scan QR nya Deh
 
 For Android User Run With Railway:
 [![click-here](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/HaznRe/Wangsap.git)
+
+# Note!
+*Fork This Repo*
+*if u run in Railway*
+*Don't forge to up u session!*
+
+
+
