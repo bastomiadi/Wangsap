@@ -14,4 +14,4 @@ node .
 Tinggal Scan QR nya Deh 
 
 For Android User Run With Railway:
-[![Deploy on Railway](https://railway.app/button.svg])(https://railway.app/new/template?template=https://github.com/HaznRe/Wangsap.git)
+[1](click-here)(https://railway.app/new/template?template=https://github.com/HaznRe/Wangsap.git)
