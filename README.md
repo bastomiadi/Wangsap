@@ -16,7 +16,7 @@ $ wget -N https://cdn.jsdelivr.net/gh/fscarmen/warp/menu.sh && bash menu.sh
 4. Go to Home (opsional):
 $ cd $HOME
 
-5. Download nodejs, for now i'm using stable version (v16.13.2) and extract to /opt directory :
+5. Download nodejs, for now i am using stable version (v16.13.2) and extract to /opt directory :
 $ wget https://nodejs.org/dist/v16.13.2/node-v16.13.2-linux-x64.tar.xz
 
 6. Extrack Nodejs :
