@@ -2,8 +2,6 @@
 
 # How to install using VPs
 ```bash
-How to make whatsap bot in vps | Ubuntu 20.04
-
 1. *optional Update your ubuntu server : 
 $ apt update -y && apt upgrade -y
 
