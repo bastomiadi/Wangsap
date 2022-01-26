@@ -32,7 +32,7 @@ $ nano ~/.profile
 export NODEJS_HOME=/opt/node-v16.13.2-linux-x64/bin
 export PATH=$NODEJS_HOME:$PATH
 
-10. after Save, don't forget to source your .profile file : 
+10. after Save, dont forget to source your .profile file : 
 $ source ~/.profile
 
 11. Download script bot :
